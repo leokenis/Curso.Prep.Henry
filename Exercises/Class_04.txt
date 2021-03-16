@@ -1,0 +1,4 @@
+Un arreglo es una lista de elementos.
+Se define usando [].
+Pueden contener cualquier tipo de datos, incluso funciones u otros arreglos.
+El primer elemento se accede mediante el índice 0.
